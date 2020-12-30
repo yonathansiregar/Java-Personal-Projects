@@ -1,0 +1,17 @@
+Rock, Paper, Scissors Game Program
+
+Player's turn   Computer's turn     Result
+-------------------------------------------
+Rock            Scissors            Win
+Rock            Paper               Lose
+Rock            Rock                Draw
+-------------------------------------------
+Paper           Rock                Win
+Paper           Scissors            Lose
+Paper           Paper               Draw
+-------------------------------------------
+Scissors        Paper               Win
+Scissors        Rock                Lose
+Scissors        Scissors            Draw
+
+This simple game is created by YO8 Programmer.
